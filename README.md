@@ -1,4 +1,4 @@
-# Ground work Terraform Generator [Discarded]
+# Ground work for Terraform Generator [Discarded]
 
 - This repository contains the terraform templates for running the the below application on the kubernetes environment.
 
